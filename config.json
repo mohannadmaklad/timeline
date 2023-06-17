@@ -1,0 +1,21 @@
+{
+    "layout" : "h",
+    "x-axis" : "Steps",
+    "start" : 1994,
+    "delta" : 1,
+    "space": 10,
+    "up-arrow-length" : 3,
+    "down-arrow-length" : 3,
+    "arrow-style" : "d",
+    "arrow-head": "v",
+    "arrow-shape": "+",
+    "base-level" : 20,
+    "data-position" : "down",
+    "+ve-data-offset" : 10,
+    "-ve-data-offset" : 5,
+    "auto-decrease-upper-data-level-by" : 1,
+    "auto-decrease-lower-data-level-by" : 0,
+    "auto-change-direction": false,
+    "window-h" : 500,
+    "window-w" : 500
+}
